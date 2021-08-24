@@ -1,0 +1,160 @@
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.bootstrap-select > .dropdown-toggle {
+  height: 40px;
+  padding: 10px;
+  color: #000;
+}
+
+.btn:focus, .btn:active {
+  color: #000;
+}
+
+.c-instrumentos_a-index .product__thumbnail a {
+  display: block;
+  width: 312px;
+  height: 207px;
+}
+
+.c-instrumentos_a-view .item-preview.item-preview2 a.view {
+  display: block;
+  width: 312px;
+  height: 207px;
+}
+
+.c-instrumentos_a-pesquisa .feature__img a.view {
+  display: block;
+  width: 311px;
+  height: 206px;
+}
+
+.c-pages_a-parceiros .product__thumbnail a {
+  display: block;
+  width: 230px;
+  height: 210px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.c-catalogos_a-index .product--list-small .product__details .product-desc {
+  width: 100%;
+}
+.c-catalogos_a-index .product--list-small .product__details .product-desc a {
+  margin-top: 5px;
+}
+
+.c-catalogos_a-view .product__thumbnail a {
+  display: block;
+  width: 230px;
+  height: 210px;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+@media (min-width: 576px) {
+  .c-instrumentos_a-index .product__thumbnail a {
+    display: block;
+    width: 510px;
+    height: 338px;
+  }
+
+  .c-instrumentos_a-view .item-preview.item-preview2 a.view {
+    display: block;
+    width: 610px;
+    height: 404px;
+  }
+
+  .c-instrumentos_a-pesquisa .feature__img a.view {
+    display: block;
+    width: 480px;
+    height: 305px;
+  }
+
+  .c-catalogos_a-view .product__thumbnail a {
+    display: block;
+    width: 510px;
+    height: 338px;
+  }
+}
+@media (min-width: 768px) {
+  .c-instrumentos_a-index .product__thumbnail a {
+    display: block;
+    width: 330px;
+    height: 218px;
+  }
+
+  .c-instrumentos_a-view .item-preview.item-preview2 a.view {
+    display: block;
+    width: 690px;
+    height: 457px;
+  }
+
+  .c-instrumentos_a-pesquisa .feature__img a.view {
+    display: block;
+    width: 280px;
+    height: 185px;
+  }
+
+  .c-catalogos_a-view .product__thumbnail a {
+    display: block;
+    width: 330px;
+    height: 218px;
+  }
+}
+@media (min-width: 992px) {
+  .c-instrumentos_a-index .product__thumbnail a {
+    display: block;
+    width: 290px;
+    height: 191.97px;
+  }
+
+  .c-instrumentos_a-view .item-preview.item-preview2 a.view {
+    display: block;
+    width: 610px;
+    height: 404px;
+  }
+
+  .c-instrumentos_a-pesquisa .feature__img a.view {
+    display: block;
+    width: 240px;
+    height: 159px;
+  }
+
+  .c-catalogos_a-view .product__thumbnail a {
+    display: block;
+    width: 290px;
+    height: 191.97px;
+  }
+}
+@media (min-width: 1200px) {
+  .c-instrumentos_a-index .product__thumbnail a {
+    display: block;
+    width: 350px;
+    height: 232px;
+  }
+
+  .c-instrumentos_a-view .item-preview.item-preview2 a.view {
+    display: block;
+    width: 730px;
+    height: 483px;
+  }
+
+  .c-instrumentos_a-pesquisa .feature__img a.view {
+    display: block;
+    width: 300px;
+    height: 199px;
+  }
+
+  .c-catalogos_a-view .product__thumbnail a {
+    display: block;
+    width: 350px;
+    height: 232px;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,16 @@
+.container-fluid {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.bootstrap-select > .dropdown-toggle {
+  height: 40px;
+  padding: 10px;
+  color: #000;
+}
+
+.btn:focus, .btn:active {
+  color: #000;
+}
+
+/*# sourceMappingURL=main.css.map */
